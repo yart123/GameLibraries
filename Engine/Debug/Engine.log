@@ -1,0 +1,20 @@
+﻿  vector3D.cpp
+  vector2D.cpp
+  timer.cpp
+  textureManager.cpp
+  textManager.cpp
+  text.cpp
+  renderer.cpp
+  matrix33.cpp
+  matrix22.cpp
+  math.cpp
+  inputManager.cpp
+c:\users\rmaple\onedrive - neumont college of computer science\dev\gat160\ncgame\engine\inputmanager.cpp(162): warning C4018: '<': signed/unsigned mismatch
+c:\users\rmaple\onedrive - neumont college of computer science\dev\gat160\ncgame\engine\inputmanager.cpp(185): warning C4018: '<': signed/unsigned mismatch
+c:\users\rmaple\onedrive - neumont college of computer science\dev\gat160\ncgame\engine\inputmanager.cpp(208): warning C4018: '<': signed/unsigned mismatch
+c:\users\rmaple\onedrive - neumont college of computer science\dev\gat160\ncgame\engine\inputmanager.cpp(231): warning C4018: '<': signed/unsigned mismatch
+  engine.cpp
+  color.cpp
+  audioSystem.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'fmod_vc.lib'

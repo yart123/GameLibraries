@@ -1,0 +1,3 @@
+﻿  enemy.cpp
+c:\users\iaroslav\google drive\new folder\cources\game\ncgame\game\formation.h(25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Game.vcxproj -> C:\Users\Iaroslav\Google Drive\New folder\Cources\GAME\NCGame\x64\Debug\Game.exe
